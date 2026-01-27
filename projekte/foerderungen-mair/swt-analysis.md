@@ -10,10 +10,11 @@
 | Stärke | Beschreibung |
 |--------|--------------|
 | **Erfolgsbasiert** | Kein Risiko für Kunden, nur 7-12% bei Erfolg |
+| **Regionaler Fokus** | Südtirol-Spezialist – differentiate von nationalen Anbietern |
 | **Schnell** | 2-Minuten-Formular, 3-Tage-Rückmeldung |
 | **Kostenlose Erstberatung** | Niedrige Einstiegshürde |
 | **Komplettservice** | Recherche, Antrag, Einreichung, Tracking |
-| **Persönlich** | Stefan kennt den lokalen Markt (Innichen/Südtirol) |
+| **Persönlich** | Stefan kennt den lokalen Markt |
 | **KI-Unterstützung** | Simon kann schnell recherchieren und analysieren |
 
 ---
@@ -47,11 +48,22 @@
 
 | Bedrohung | Beschreibung |
 |-----------|--------------|
-| **Konkurrenz** | Große Beratungsfirmen, Online-Plattformen |
+| **Konkurrenz national** | Förderkompass.net, foerder-pilot.de (Deutschland) – etablierte Spieler |
+| **Konkurrenz regional** | Lokale Steuerberater/Wirtschaftskammer |
 | **Marktveränderung** | Förderprogramme können wegfallen |
 | **Rechtliche Risiken** | Falsche Beratung = Haftung |
 | **Wirtschaftslage** | Bei Rezession weniger Investitionen |
 | **Abhängigkeit** | Förderregeln ändern sich oft |
+
+---
+
+## Konkurrenz-Analyse
+
+| Mitbewerber | Modell | Stärken | Schwächen |
+|-------------|--------|---------|-----------|
+| **Förderkompass.net** (D) | Förderberatung + Antrag, auch erfolgsbasiert | Etabliert, breites Netzwerk | National, nicht regional |
+| **Förderpilot.de** (D) | Fokus auf Qualifizierungschancengesetz | Spezialisiert, Arbeitgeber-Fokus | Nur bestimmte Förderungen |
+| **AWS Förderpilot** (AT) | Förder-Suchmaschine | Kostenlos, breite Datenbank | Nur Recherche, kein Antrag |
 
 ---
 

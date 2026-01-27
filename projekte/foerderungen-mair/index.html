@@ -516,7 +516,7 @@
                 </div>
                 <div class="form-group">
                     <label for="email">E-Mail-Adresse *</label>
-                    <input type="email" id="email" name="email" required placeholder="max@beispiel.at">
+                    <input type="email" id="email" name="email" required placeholder="max@beispiel.at" value="foerderungen.mair@gmail.com">
                 </div>
                 <div class="form-group">
                     <label for="phone">Telefonnummer</label>
@@ -550,7 +550,7 @@
     <!-- Footer -->
     <footer>
         <p>© 2026 Förderungen Mair – Ihr Partner für staatliche Förderungen</p>
-        <p style="margin-top: 0.5rem;">Südtirol | Italien</p>
+        <p style="margin-top: 0.5rem;">📧 foerderungen.mair@gmail.com | Südtirol | Italien</p>
     </footer>
     
     <script>
@@ -568,10 +568,30 @@
             });
         });
         
-        // Form submission handler
+        // Form submission handler - creates mailto link
         document.querySelector('form').addEventListener('submit', function(e) {
             e.preventDefault();
-            alert('Vielen Dank! Wir werden uns innerhalb von 3 Werktagen bei Ihnen melden.');
+            
+            const name = document.getElementById('name').value;
+            const email = document.getElementById('email').value;
+            const phone = document.getElementById('phone').value;
+            const company = document.getElementById('company').value;
+            const message = document.getElementById('message').value;
+            const heard = document.getElementById('heard').value;
+            
+            const subject = encodeURIComponent('Förderungen Mair - Anfrage von ' + name);
+            const body = encodeURIComponent(
+                'Name: ' + name + '\n' +
+                'E-Mail: ' + email + '\n' +
+                'Telefon: ' + phone + '\n' +
+                'Unternehmen: ' + company + '\n' +
+                'Nachricht: ' + message + '\n' +
+                'Gefunden über: ' + heard
+            );
+            
+            window.location.href = 'mailto:foerderungen.mair@gmail.com?subject=' + subject + '&body=' + body;
+            
+            alert('Vielen Dank! Dein E-Mail-Programm öffnet sich jetzt. Wir werden uns innerhalb von 3 Werktagen bei dir melden.');
             this.reset();
         });
     </script>

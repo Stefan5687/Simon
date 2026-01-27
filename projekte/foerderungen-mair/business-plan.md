@@ -62,10 +62,22 @@
 | Vorteil | Erklärung |
 |---------|-----------|
 | **Erfolgsbasiert** | Kein Risiko für Kunden |
-| **Regional** | Stefan kennt den Südtiroler Markt |
+| **Regional** | Südtirol-Spezialist – differentiate von nationalen Anbietern |
 | **Schnell** | 3-Tage-Rückmeldung |
 | **Persönlich** | Direkter Kontakt, keine Hotline |
 | **KI-unterstützt** | Simon beschleunigt Recherche |
+
+---
+
+## 6.1 Konkurrenz-Analyse
+
+| Mitbewerber | Modell | Stärken |
+|-------------|--------|---------|
+| **Förderkompass.net** | Beratung + Antrag, auch erfolgsbasiert | Etabliert, national |
+| **Förderpilot.de** | Qualifizierungschancengesetz | Spezialisiert |
+| **Lokale Steuerberater** | Klassische Beratung | Bestehende Kundenbeziehung |
+
+**Unsere Differenzierung:** Regionaler Fokus auf Südtirol, persönlicher Service, moderne Prozesse.
 
 ---
 
@@ -115,6 +127,14 @@
 | Rechtliche Probleme | Rechtsberater hinzuziehen |
 | Konkurrenz | Regionalen Fokus stärken |
 | Cashflow | Puffer aufbauen |
+
+---
+
+## Kontakt
+
+- **E-Mail:** foerderungen.mair@gmail.com
+- **Website:** https://foerderungen-mair.vercel.app
+- **Region:** Südtirol, Italien
 
 ---
 
