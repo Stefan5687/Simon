@@ -8,16 +8,22 @@
 
 ## Projekt 1: Förderungen Mair
 
-**Status:** Planung starten
+**Status:** ⚡ In Umsetzung
 **Typ:** Beratungs-Service
 
+### Dokumente
+| Dokument | Link |
+|----------|------|
+| SWOT Analyse | [swt-analysis.md](projekte/foerderungen-mair/swt-analysis.md) |
+| Business Plan | [business-plan.md](projekte/foerderungen-mair/business-plan.md) |
+| Aufgaben-Tracker | [tasks.md](projekte/foerderungen-mair/tasks.md) |
+| Website-Code | [index.html](projekte/foerderungen-mair/index.html) |
+
 ### Nächste Schritte
-- [ ] Erstes Planungs-Meeting
-- [ ] Zielgruppe definieren
-- [ ] Leistungen auflisten
-- [ ] Preisgestaltung
-- [ ] Marketing-Strategie
-- [ ] Website bauen (Vercel)
+- [ ] Website testen & finalisieren
+- [ ] Formular verknüpfen (AirTable/Cal.com)
+- [ ] Stefan: Netzwerk ansprechen
+- [ ] Erste Kunden gewinnen
 
 ---
 
