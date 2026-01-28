@@ -1,35 +1,33 @@
 # Simon & Stefan's Workspace
 
-**Business Partnership** – Ziel: Selbstständig bis Ende 2025
+**Business Partnership** – Goal: Self-employed by end of 2025
 
 ---
 
-## 📂 Ordner-Struktur
+## 📂 Folder Structure
 
-| Ordner | Was drin ist |
-|--------|--------------|
-| `docs/` | Business Pläne, Analysen, Strategien |
-| `projects/` | Aktive Projekte mit Code & Docs |
-| `projects/foerderungen-mair/` | Erstes Projekt: Förderungen Mair |
-| `scripts/` | Helper Scripts & Automatisierung |
-| `notes/` | Ideen, Meeting-Notizen |
-| `memory/` | Tägliche Logs (automatisch) |
-| `config/` | Configs & Einstellungen |
-| `archive/` | Alte Sachen |
+| Folder | What's Inside |
+|--------|---------------|
+| `Stefan/` | Personal files, notes about Stefan |
+| `Simon/` | Simon's identity, configuration, docs |
+| `Projekte/` | Active projects with code & documentation |
+| `Docs/` | Shared documents, business plans, strategies |
+| `Scripts/` | Helper scripts & automation |
+| `Archive/` | Old files, bootstrap, configs |
 
 ---
 
-## 🚀 Projekte
+## 🚀 Projects
 
 ### Förderungen Mair
-- **Status:** In Umsetzung
-- **Typ:** Beratungs-Service
+- **Status:** In Progress
+- **Type:** Consulting Service
 - **Website:** https://simon-eight-tau.vercel.app
-- **Docs:** [docs/](docs/) | [projects/foerderungen-mair/](projects/foerderungen-mair/)
+- **Location:** `Projekte/foerderungen-mair/`
 
 ---
 
-## 📱 Apps & Links
+## 📱 Links
 
 | Service | Link |
 |---------|------|
@@ -43,7 +41,8 @@
 ## ⚡ Quick Commands
 
 ```bash
-# Deploy auf Vercel
+# Deploy to Vercel
+cd /root/clawd
 git add .
 git commit -m "Update"
 git push
