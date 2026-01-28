@@ -33,7 +33,7 @@
 |---------|--------|----------------|-------|---------|
 | Formular für Erstberatung entwerfen | 🔲 Stefan | Stefan | - | - |
 | Erste Kunden ansprechen | 🔲 Stefan | Stefan | - | Netzwerk nutzen |
-| Content für Website schreiben | 🔲 Simon/Stefan | Beide | - | - |
+| Content für Website schreiben | 🔲 Simon| Beide | 2026-01-29 | - |
 
 ### 📌 Priorität: Niedrig
 
